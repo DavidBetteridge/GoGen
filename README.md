@@ -1,4 +1,4 @@
-﻿#GOGEN
+﻿# GOGEN
 
 Evening Standard - Tuesday 18th August 2020
 
@@ -6,7 +6,6 @@ Insert letters to form the listed words, moving between adjacent cells horizonta
 Insert the remaining letters of the alphabet (except Z) in the grid so that all the listed words are spelt out this way.
 
 ![Puzzle](Puzzle.png "Puzzle")
-
 ## Words
 
 + BIRDS
